@@ -1,7 +1,10 @@
 *.class
+../README.md
+../LICENSE
+../Basegame Character Card Stats.xlsx
 
 # IntelliJ
-../.idea/*
+../.idea/
 out/
 *.iml
 
